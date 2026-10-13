@@ -1,0 +1,381 @@
+﻿temporada,data,mandante,visitante,gols_mandante,gols_visitante
+2023,2023-04-14,Guarani / SP,Avaí / SC,4,1
+2023,2023-04-15,Vila Nova / GO,Novorizontino / SP,2,1
+2023,2023-04-16,Criciúma / SC,Tombense / MG,2,0
+2023,2023-04-14,Ituano / SP,Ceará / CE,2,0
+2023,2023-04-15,Mirassol / SP,Chapecoense / SC,1,0
+2023,2023-04-16,Vitória / BA,Ponte Preta / SP,3,0
+2023,2023-04-15,Sampaio Corrêa / MA,Atlético Goianiense / GO,3,3
+2023,2023-04-15,Juventude / RS,Botafogo / SP,1,2
+2023,2023-04-16,Londrina / PR,ABC / RN,1,0
+2023,2023-07-05,CRB / AL,Sport / PE,2,0
+2023,2023-04-21,Ponte Preta / SP,Criciúma / SC,1,2
+2023,2023-04-21,Atlético Goianiense / GO,CRB / AL,2,1
+2023,2023-04-22,Avaí / SC,Mirassol / SP,1,0
+2023,2023-04-21,Botafogo / SP,Sampaio Corrêa / MA,1,0
+2023,2023-04-22,Novorizontino / SP,Juventude / RS,1,0
+2023,2023-06-18,Sport / PE,Vila Nova / GO,1,0
+2023,2023-04-22,Ceará / CE,Guarani / SP,0,3
+2023,2023-04-23,Chapecoense / SC,Londrina / PR,3,0
+2023,2023-04-22,Tombense / MG,Ituano / SP,3,0
+2023,2023-04-23,ABC / RN,Vitória / BA,0,3
+2023,2023-04-28,Guarani / SP,Ituano / SP,1,0
+2023,2023-04-30,Vila Nova / GO,Juventude / RS,1,0
+2023,2023-04-28,Criciúma / SC,Avaí / SC,1,0
+2023,2023-04-29,Botafogo / SP,CRB / AL,2,0
+2023,2023-04-30,Novorizontino / SP,Sport / PE,0,0
+2023,2023-04-28,Vitória / BA,Londrina / PR,2,0
+2023,2023-04-29,Sampaio Corrêa / MA,Mirassol / SP,1,3
+2023,2023-04-29,Chapecoense / SC,Ponte Preta / SP,1,1
+2023,2023-04-29,Tombense / MG,Atlético Goianiense / GO,1,1
+2023,2023-04-30,ABC / RN,Ceará / CE,1,2
+2023,2023-05-02,Ponte Preta / SP,Botafogo / SP,2,0
+2023,2023-05-02,Atlético Goianiense / GO,Chapecoense / SC,2,1
+2023,2023-05-03,Avaí / SC,Vila Nova / GO,0,3
+2023,2023-05-03,Ituano / SP,ABC / RN,3,0
+2023,2023-05-03,Mirassol / SP,Novorizontino / SP,0,2
+2023,2023-05-10,Sport / PE,Tombense / MG,3,2
+2023,2023-05-10,Ceará / CE,Vitória / BA,0,2
+2023,2023-05-03,Juventude / RS,Guarani / SP,1,0
+2023,2023-05-01,Londrina / PR,Criciúma / SC,1,1
+2023,2023-05-02,CRB / AL,Sampaio Corrêa / MA,0,0
+2023,2023-05-07,Ponte Preta / SP,Ceará / CE,0,0
+2023,2023-05-08,Atlético Goianiense / GO,Londrina / PR,2,1
+2023,2023-05-06,Criciúma / SC,Ituano / SP,2,1
+2023,2023-05-05,Botafogo / SP,Vitória / BA,0,3
+2023,2023-05-06,Mirassol / SP,Vila Nova / GO,1,1
+2023,2023-05-07,Sport / PE,Guarani / SP,2,0
+2023,2023-05-06,Sampaio Corrêa / MA,Juventude / RS,2,1
+2023,2023-05-06,Chapecoense / SC,Novorizontino / SP,1,1
+2023,2023-05-06,Tombense / MG,Avaí / SC,0,1
+2023,2023-05-06,CRB / AL,ABC / RN,1,1
+2023,2023-05-13,Guarani / SP,Sampaio Corrêa / MA,2,0
+2023,2023-05-12,Vila Nova / GO,Criciúma / SC,0,0
+2023,2023-05-12,Avaí / SC,Chapecoense / SC,1,4
+2023,2023-05-14,Ituano / SP,Sport / PE,1,1
+2023,2023-05-13,Novorizontino / SP,CRB / AL,0,1
+2023,2023-05-14,Vitória / BA,Atlético Goianiense / GO,2,3
+2023,2023-05-13,Ceará / CE,Tombense / MG,2,0
+2023,2023-05-13,Juventude / RS,Mirassol / SP,0,1
+2023,2023-05-14,Londrina / PR,Ponte Preta / SP,3,0
+2023,2023-05-14,ABC / RN,Botafogo / SP,1,2
+2023,2023-05-21,Ponte Preta / SP,Guarani / SP,1,1
+2023,2023-05-19,Atlético Goianiense / GO,Avaí / SC,0,0
+2023,2023-05-21,Criciúma / SC,Ceará / CE,1,2
+2023,2023-05-20,Ituano / SP,Novorizontino / SP,0,2
+2023,2023-05-19,Mirassol / SP,Vitória / BA,2,0
+2023,2023-05-20,Sport / PE,Botafogo / SP,3,0
+2023,2023-05-20,Sampaio Corrêa / MA,ABC / RN,1,0
+2023,2023-05-21,Chapecoense / SC,Juventude / RS,0,2
+2023,2023-05-19,Tombense / MG,Londrina / PR,0,2
+2023,2023-05-21,CRB / AL,Vila Nova / GO,0,3
+2023,2023-05-24,Guarani / SP,Chapecoense / SC,3,3
+2023,2023-05-24,Vila Nova / GO,Ituano / SP,1,0
+2023,2023-05-24,Criciúma / SC,Sport / PE,1,0
+2023,2023-05-23,Botafogo / SP,Mirassol / SP,1,0
+2023,2023-05-23,Novorizontino / SP,Avaí / SC,2,0
+2023,2023-05-24,Vitória / BA,CRB / AL,1,0
+2023,2023-05-24,Sampaio Corrêa / MA,Ponte Preta / SP,0,0
+2023,2023-05-24,Juventude / RS,Atlético Goianiense / GO,3,0
+2023,2023-05-24,Londrina / PR,Ceará / CE,1,3
+2023,2023-05-23,ABC / RN,Tombense / MG,1,0
+2023,2023-05-28,Ponte Preta / SP,Vila Nova / GO,1,0
+2023,2023-05-27,Atlético Goianiense / GO,Botafogo / SP,1,1
+2023,2023-05-27,Avaí / SC,Vitória / BA,1,1
+2023,2023-05-27,Ituano / SP,Londrina / PR,3,1
+2023,2023-05-28,Mirassol / SP,Criciúma / SC,1,0
+2023,2023-05-28,Sport / PE,ABC / RN,4,1
+2023,2023-05-28,Ceará / CE,Novorizontino / SP,0,3
+2023,2023-05-29,Chapecoense / SC,Sampaio Corrêa / MA,0,1
+2023,2023-05-28,Tombense / MG,Guarani / SP,1,1
+2023,2023-05-27,CRB / AL,Juventude / RS,1,2
+2023,2023-06-04,Guarani / SP,CRB / AL,0,1
+2023,2023-06-03,Vila Nova / GO,Sampaio Corrêa / MA,3,0
+2023,2023-06-02,Criciúma / SC,Atlético Goianiense / GO,3,0
+2023,2023-06-02,Botafogo / SP,Tombense / MG,0,0
+2023,2023-06-03,Mirassol / SP,Ponte Preta / SP,1,0
+2023,2023-06-02,Vitória / BA,Ituano / SP,3,0
+2023,2023-06-05,Ceará / CE,Chapecoense / SC,2,0
+2023,2023-06-03,Juventude / RS,Avaí / SC,3,2
+2023,2023-06-04,Londrina / PR,Sport / PE,1,2
+2023,2023-06-03,ABC / RN,Novorizontino / SP,0,1
+2023,2023-06-06,Ponte Preta / SP,ABC / RN,0,0
+2023,2023-06-06,Atlético Goianiense / GO,Ceará / CE,0,3
+2023,2023-06-08,Criciúma / SC,Juventude / RS,0,1
+2023,2023-06-06,Botafogo / SP,Ituano / SP,0,2
+2023,2023-06-07,Novorizontino / SP,Guarani / SP,1,0
+2023,2023-06-07,Sport / PE,Avaí / SC,2,1
+2023,2023-06-07,Sampaio Corrêa / MA,Londrina / PR,2,0
+2023,2023-06-06,Chapecoense / SC,Vila Nova / GO,0,1
+2023,2023-06-06,Tombense / MG,Vitória / BA,1,2
+2023,2023-06-07,CRB / AL,Mirassol / SP,2,0
+2023,2023-06-11,Ponte Preta / SP,Sport / PE,1,1
+2023,2023-06-10,Vila Nova / GO,Guarani / SP,0,0
+2023,2023-06-11,Avaí / SC,Botafogo / SP,1,1
+2023,2023-06-10,Ituano / SP,Atlético Goianiense / GO,1,1
+2023,2023-06-10,Novorizontino / SP,Sampaio Corrêa / MA,1,0
+2023,2023-06-11,Vitória / BA,Criciúma / SC,0,1
+2023,2023-06-10,Ceará / CE,CRB / AL,1,3
+2023,2023-06-11,Juventude / RS,Tombense / MG,1,2
+2023,2023-06-11,Londrina / PR,Mirassol / SP,1,2
+2023,2023-06-09,ABC / RN,Chapecoense / SC,1,1
+2023,2023-06-25,Guarani / SP,Vitória / BA,2,0
+2023,2023-06-23,Atlético Goianiense / GO,Ponte Preta / SP,1,0
+2023,2023-06-24,Avaí / SC,Londrina / PR,0,0
+2023,2023-06-24,Botafogo / SP,Vila Nova / GO,0,3
+2023,2023-06-25,Mirassol / SP,ABC / RN,3,2
+2023,2023-06-22,Sport / PE,Juventude / RS,3,0
+2023,2023-06-25,Sampaio Corrêa / MA,Ceará / CE,1,1
+2023,2023-06-24,Chapecoense / SC,Criciúma / SC,1,1
+2023,2023-06-24,Tombense / MG,Novorizontino / SP,1,2
+2023,2023-06-21,CRB / AL,Ituano / SP,2,2
+2023,2023-06-28,Guarani / SP,Mirassol / SP,2,1
+2023,2023-06-27,Vila Nova / GO,Tombense / MG,1,0
+2023,2023-06-27,Criciúma / SC,CRB / AL,2,1
+2023,2023-06-28,Ituano / SP,Ponte Preta / SP,0,1
+2023,2023-06-27,Novorizontino / SP,Botafogo / SP,0,1
+2023,2023-06-28,Vitória / BA,Sampaio Corrêa / MA,2,1
+2023,2023-06-28,Ceará / CE,Avaí / SC,0,0
+2023,2023-06-27,Chapecoense / SC,Sport / PE,1,1
+2023,2023-06-28,Londrina / PR,Juventude / RS,1,2
+2023,2023-06-28,ABC / RN,Atlético Goianiense / GO,1,1
+2023,2023-07-02,Ponte Preta / SP,Novorizontino / SP,1,0
+2023,2023-07-01,Atlético Goianiense / GO,Vila Nova / GO,1,1
+2023,2023-07-01,Avaí / SC,ABC / RN,0,2
+2023,2023-07-03,Botafogo / SP,Guarani / SP,1,0
+2023,2023-07-03,Mirassol / SP,Ituano / SP,0,1
+2023,2023-07-02,Sport / PE,Ceará / CE,2,0
+2023,2023-07-01,Sampaio Corrêa / MA,Criciúma / SC,0,2
+2023,2023-07-02,Juventude / RS,Vitória / BA,1,0
+2023,2023-06-30,Tombense / MG,Chapecoense / SC,4,2
+2023,2023-07-01,CRB / AL,Londrina / PR,2,1
+2023,2023-07-08,Guarani / SP,Londrina / PR,2,1
+2023,2023-07-10,Vila Nova / GO,Vitória / BA,1,0
+2023,2023-07-08,Avaí / SC,Ponte Preta / SP,0,1
+2023,2023-07-08,Ituano / SP,Juventude / RS,1,1
+2023,2023-07-07,Novorizontino / SP,Atlético Goianiense / GO,2,2
+2023,2023-07-09,Sport / PE,Mirassol / SP,0,0
+2023,2023-07-07,Ceará / CE,Botafogo / SP,3,0
+2023,2023-07-09,Chapecoense / SC,CRB / AL,2,1
+2023,2023-07-08,Tombense / MG,Sampaio Corrêa / MA,0,1
+2023,2023-07-08,ABC / RN,Criciúma / SC,0,1
+2023,2023-07-15,Ponte Preta / SP,Tombense / MG,0,1
+2023,2023-07-14,Atlético Goianiense / GO,Sport / PE,3,1
+2023,2023-07-13,Criciúma / SC,Guarani / SP,1,1
+2023,2023-08-23,Botafogo / SP,Chapecoense / SC,1,2
+2023,2023-07-16,Mirassol / SP,Ceará / CE,1,1
+2023,2023-07-16,Vitória / BA,Novorizontino / SP,2,1
+2023,2023-07-14,Sampaio Corrêa / MA,Ituano / SP,0,0
+2023,2023-07-15,Juventude / RS,ABC / RN,1,1
+2023,2023-07-15,Londrina / PR,Vila Nova / GO,1,0
+2023,2023-08-23,CRB / AL,Avaí / SC,1,1
+2023,2023-07-18,Ponte Preta / SP,Juventude / RS,0,0
+2023,2023-07-19,Atlético Goianiense / GO,Mirassol / SP,2,2
+2023,2023-07-19,Avaí / SC,Sampaio Corrêa / MA,2,0
+2023,2023-07-17,Botafogo / SP,Criciúma / SC,1,0
+2023,2023-07-19,Novorizontino / SP,Londrina / PR,3,0
+2023,2023-07-19,Sport / PE,Vitória / BA,1,2
+2023,2023-07-19,Ceará / CE,Vila Nova / GO,1,0
+2023,2023-07-18,Chapecoense / SC,Ituano / SP,1,0
+2023,2023-07-18,Tombense / MG,CRB / AL,2,1
+2023,2023-07-19,ABC / RN,Guarani / SP,0,1
+2023,2023-07-23,Guarani / SP,Atlético Goianiense / GO,1,0
+2023,2023-07-22,Vila Nova / GO,ABC / RN,1,1
+2023,2023-07-22,Criciúma / SC,Novorizontino / SP,0,1
+2023,2023-07-22,Ituano / SP,Avaí / SC,0,1
+2023,2023-07-22,Mirassol / SP,Tombense / MG,2,0
+2023,2023-07-24,Vitória / BA,Chapecoense / SC,1,0
+2023,2023-07-23,Sampaio Corrêa / MA,Sport / PE,1,2
+2023,2023-07-23,Juventude / RS,Ceará / CE,1,0
+2023,2023-07-24,Londrina / PR,Botafogo / SP,1,2
+2023,2023-07-21,CRB / AL,Ponte Preta / SP,1,0
+2023,2023-07-30,Ponte Preta / SP,Vitória / BA,2,2
+2023,2023-07-29,Atlético Goianiense / GO,Sampaio Corrêa / MA,2,2
+2023,2023-07-29,Avaí / SC,Guarani / SP,1,2
+2023,2023-07-29,Botafogo / SP,Juventude / RS,0,2
+2023,2023-07-30,Novorizontino / SP,Vila Nova / GO,3,1
+2023,2023-07-28,Sport / PE,CRB / AL,2,0
+2023,2023-07-28,Ceará / CE,Ituano / SP,1,1
+2023,2023-07-29,Chapecoense / SC,Mirassol / SP,0,1
+2023,2023-07-30,Tombense / MG,Criciúma / SC,2,2
+2023,2023-07-29,ABC / RN,Londrina / PR,0,0
+2023,2023-08-02,Guarani / SP,Ceará / CE,0,0
+2023,2023-08-04,Vila Nova / GO,Sport / PE,0,1
+2023,2023-08-02,Criciúma / SC,Ponte Preta / SP,2,1
+2023,2023-08-02,Ituano / SP,Tombense / MG,1,0
+2023,2023-08-01,Mirassol / SP,Avaí / SC,2,2
+2023,2023-08-02,Vitória / BA,ABC / RN,2,0
+2023,2023-08-01,Sampaio Corrêa / MA,Botafogo / SP,0,0
+2023,2023-08-02,Juventude / RS,Novorizontino / SP,1,0
+2023,2023-08-02,Londrina / PR,Chapecoense / SC,1,1
+2023,2023-08-01,CRB / AL,Atlético Goianiense / GO,2,1
+2023,2023-08-06,Ponte Preta / SP,Chapecoense / SC,1,0
+2023,2023-08-07,Atlético Goianiense / GO,Tombense / MG,3,2
+2023,2023-08-05,Avaí / SC,Criciúma / SC,1,0
+2023,2023-08-05,Ituano / SP,Guarani / SP,1,1
+2023,2023-08-04,Mirassol / SP,Sampaio Corrêa / MA,0,0
+2023,2023-08-05,Sport / PE,Novorizontino / SP,1,0
+2023,2023-08-06,Ceará / CE,ABC / RN,1,0
+2023,2023-08-07,Juventude / RS,Vila Nova / GO,0,2
+2023,2023-08-07,Londrina / PR,Vitória / BA,2,0
+2023,2023-08-05,CRB / AL,Botafogo / SP,0,0
+2023,2023-08-13,Guarani / SP,Juventude / RS,0,1
+2023,2023-08-12,Vila Nova / GO,Avaí / SC,1,1
+2023,2023-08-12,Criciúma / SC,Londrina / PR,2,0
+2023,2023-08-12,Botafogo / SP,Ponte Preta / SP,0,0
+2023,2023-08-11,Novorizontino / SP,Mirassol / SP,2,1
+2023,2023-08-13,Vitória / BA,Ceará / CE,1,0
+2023,2023-08-12,Sampaio Corrêa / MA,CRB / AL,1,1
+2023,2023-08-13,Chapecoense / SC,Atlético Goianiense / GO,0,1
+2023,2023-08-11,Tombense / MG,Sport / PE,0,0
+2023,2023-08-14,ABC / RN,Ituano / SP,1,1
+2023,2023-08-18,Guarani / SP,Sport / PE,3,1
+2023,2023-08-17,Vila Nova / GO,Mirassol / SP,2,0
+2023,2023-08-19,Avaí / SC,Tombense / MG,4,2
+2023,2023-08-19,Ituano / SP,Criciúma / SC,3,0
+2023,2023-08-20,Novorizontino / SP,Chapecoense / SC,1,2
+2023,2023-08-18,Vitória / BA,Botafogo / SP,2,0
+2023,2023-08-20,Ceará / CE,Ponte Preta / SP,1,1
+2023,2023-08-19,Juventude / RS,Sampaio Corrêa / MA,0,0
+2023,2023-08-17,Londrina / PR,Atlético Goianiense / GO,0,2
+2023,2023-08-19,ABC / RN,CRB / AL,1,2
+2023,2023-08-25,Ponte Preta / SP,Londrina / PR,1,0
+2023,2023-08-27,Atlético Goianiense / GO,Vitória / BA,0,0
+2023,2023-08-22,Criciúma / SC,Vila Nova / GO,1,0
+2023,2023-08-28,Botafogo / SP,ABC / RN,0,0
+2023,2023-08-22,Mirassol / SP,Juventude / RS,0,1
+2023,2023-08-25,Sport / PE,Ituano / SP,1,2
+2023,2023-08-26,Sampaio Corrêa / MA,Guarani / SP,1,1
+2023,2023-08-27,Chapecoense / SC,Avaí / SC,0,0
+2023,2023-08-26,Tombense / MG,Ceará / CE,2,2
+2023,2023-08-26,CRB / AL,Novorizontino / SP,1,0
+2023,2023-09-02,Guarani / SP,Ponte Preta / SP,1,0
+2023,2023-09-03,Vila Nova / GO,CRB / AL,0,1
+2023,2023-09-02,Avaí / SC,Atlético Goianiense / GO,0,2
+2023,2023-09-03,Botafogo / SP,Sport / PE,1,1
+2023,2023-08-30,Novorizontino / SP,Ituano / SP,2,0
+2023,2023-09-01,Vitória / BA,Mirassol / SP,0,0
+2023,2023-09-02,Ceará / CE,Criciúma / SC,1,0
+2023,2023-08-31,Juventude / RS,Chapecoense / SC,0,0
+2023,2023-09-01,Londrina / PR,Tombense / MG,1,1
+2023,2023-09-02,ABC / RN,Sampaio Corrêa / MA,1,1
+2023,2023-09-09,Ponte Preta / SP,Sampaio Corrêa / MA,0,0
+2023,2023-09-10,Atlético Goianiense / GO,Juventude / RS,3,0
+2023,2023-09-11,Avaí / SC,Novorizontino / SP,1,0
+2023,2023-09-08,Ituano / SP,Vila Nova / GO,1,2
+2023,2023-09-09,Mirassol / SP,Botafogo / SP,1,0
+2023,2023-09-09,Sport / PE,Criciúma / SC,3,3
+2023,2023-09-06,Ceará / CE,Londrina / PR,3,1
+2023,2023-09-05,Chapecoense / SC,Guarani / SP,0,1
+2023,2023-09-07,Tombense / MG,ABC / RN,3,0
+2023,2023-09-10,CRB / AL,Vitória / BA,6,0
+2023,2023-09-17,Guarani / SP,Tombense / MG,3,0
+2023,2023-09-15,Vila Nova / GO,Ponte Preta / SP,1,1
+2023,2023-09-16,Criciúma / SC,Mirassol / SP,2,1
+2023,2023-09-16,Botafogo / SP,Atlético Goianiense / GO,1,0
+2023,2023-09-18,Novorizontino / SP,Ceará / CE,4,1
+2023,2023-09-17,Vitória / BA,Avaí / SC,3,0
+2023,2023-09-16,Sampaio Corrêa / MA,Chapecoense / SC,2,0
+2023,2023-09-16,Juventude / RS,CRB / AL,3,1
+2023,2023-09-14,Londrina / PR,Ituano / SP,2,2
+2023,2023-09-15,ABC / RN,Sport / PE,0,1
+2023,2023-09-22,Ponte Preta / SP,Mirassol / SP,0,3
+2023,2023-09-22,Atlético Goianiense / GO,Criciúma / SC,3,1
+2023,2023-09-25,Avaí / SC,Juventude / RS,0,2
+2023,2023-09-22,Ituano / SP,Vitória / BA,0,2
+2023,2023-09-25,Novorizontino / SP,ABC / RN,0,0
+2023,2023-09-23,Sport / PE,Londrina / PR,4,0
+2023,2023-09-19,Sampaio Corrêa / MA,Vila Nova / GO,2,1
+2023,2023-09-23,Chapecoense / SC,Ceará / CE,1,1
+2023,2023-09-23,Tombense / MG,Botafogo / SP,0,0
+2023,2023-09-23,CRB / AL,Guarani / SP,1,0
+2023,2023-09-30,Guarani / SP,Novorizontino / SP,2,1
+2023,2023-10-01,Vila Nova / GO,Chapecoense / SC,0,0
+2023,2023-09-29,Avaí / SC,Sport / PE,2,2
+2023,2023-09-30,Ituano / SP,Botafogo / SP,1,1
+2023,2023-09-28,Mirassol / SP,CRB / AL,1,0
+2023,2023-09-29,Vitória / BA,Tombense / MG,1,0
+2023,2023-10-01,Ceará / CE,Atlético Goianiense / GO,0,1
+2023,2023-09-30,Juventude / RS,Criciúma / SC,1,0
+2023,2023-09-28,Londrina / PR,Sampaio Corrêa / MA,1,0
+2023,2023-09-30,ABC / RN,Ponte Preta / SP,2,0
+2023,2023-10-07,Guarani / SP,Vila Nova / GO,1,1
+2023,2023-10-06,Atlético Goianiense / GO,Ituano / SP,1,0
+2023,2023-10-08,Criciúma / SC,Vitória / BA,1,0
+2023,2023-10-07,Botafogo / SP,Avaí / SC,0,1
+2023,2023-10-03,Mirassol / SP,Londrina / PR,2,0
+2023,2023-10-09,Sport / PE,Ponte Preta / SP,3,3
+2023,2023-10-07,Sampaio Corrêa / MA,Novorizontino / SP,1,1
+2023,2023-10-05,Chapecoense / SC,ABC / RN,0,0
+2023,2023-10-07,Tombense / MG,Juventude / RS,1,1
+2023,2023-10-06,CRB / AL,Ceará / CE,2,0
+2023,2023-10-15,Ponte Preta / SP,Atlético Goianiense / GO,0,2
+2023,2023-10-11,Vila Nova / GO,Botafogo / SP,3,1
+2023,2023-10-13,Criciúma / SC,Chapecoense / SC,1,2
+2023,2023-10-14,Ituano / SP,CRB / AL,0,0
+2023,2023-10-14,Novorizontino / SP,Tombense / MG,0,0
+2023,2023-10-15,Vitória / BA,Guarani / SP,2,0
+2023,2023-10-14,Ceará / CE,Sampaio Corrêa / MA,0,0
+2023,2023-10-16,Juventude / RS,Sport / PE,2,2
+2023,2023-10-15,Londrina / PR,Avaí / SC,1,1
+2023,2023-10-10,ABC / RN,Mirassol / SP,1,2
+2023,2023-10-23,Ponte Preta / SP,Ituano / SP,0,0
+2023,2023-10-19,Atlético Goianiense / GO,ABC / RN,3,1
+2023,2023-10-22,Avaí / SC,Ceará / CE,1,0
+2023,2023-10-21,Botafogo / SP,Novorizontino / SP,2,0
+2023,2023-10-20,Mirassol / SP,Guarani / SP,0,0
+2023,2023-10-22,Sport / PE,Chapecoense / SC,2,1
+2023,2023-10-20,Sampaio Corrêa / MA,Vitória / BA,0,1
+2023,2023-10-21,Juventude / RS,Londrina / PR,2,2
+2023,2023-10-19,Tombense / MG,Vila Nova / GO,2,1
+2023,2023-10-21,CRB / AL,Criciúma / SC,0,1
+2023,2023-10-27,Guarani / SP,Botafogo / SP,0,1
+2023,2023-10-28,Vila Nova / GO,Atlético Goianiense / GO,2,1
+2023,2023-10-28,Criciúma / SC,Sampaio Corrêa / MA,3,0
+2023,2023-10-28,Ituano / SP,Mirassol / SP,0,0
+2023,2023-10-27,Novorizontino / SP,Ponte Preta / SP,2,0
+2023,2023-10-29,Vitória / BA,Juventude / RS,0,0
+2023,2023-10-27,Ceará / CE,Sport / PE,2,1
+2023,2023-10-30,Chapecoense / SC,Tombense / MG,1,2
+2023,2023-10-29,Londrina / PR,CRB / AL,1,1
+2023,2023-10-26,ABC / RN,Avaí / SC,1,1
+2023,2023-11-04,Ponte Preta / SP,Avaí / SC,0,1
+2023,2023-11-01,Atlético Goianiense / GO,Novorizontino / SP,2,2
+2023,2023-11-07,Criciúma / SC,ABC / RN,1,0
+2023,2023-11-04,Botafogo / SP,Ceará / CE,2,2
+2023,2023-11-03,Mirassol / SP,Sport / PE,2,1
+2023,2023-11-05,Vitória / BA,Vila Nova / GO,1,1
+2023,2023-11-04,Sampaio Corrêa / MA,Tombense / MG,1,2
+2023,2023-11-03,Juventude / RS,Ituano / SP,2,1
+2023,2023-11-03,Londrina / PR,Guarani / SP,0,0
+2023,2023-11-07,CRB / AL,Chapecoense / SC,3,2
+2023,2023-11-14,Guarani / SP,Criciúma / SC,1,1
+2023,2023-11-10,Vila Nova / GO,Londrina / PR,4,1
+2023,2023-11-11,Avaí / SC,CRB / AL,1,1
+2023,2023-11-11,Ituano / SP,Sampaio Corrêa / MA,2,1
+2023,2023-11-12,Novorizontino / SP,Vitória / BA,1,2
+2023,2023-11-10,Sport / PE,Atlético Goianiense / GO,0,0
+2023,2023-11-12,Ceará / CE,Mirassol / SP,2,0
+2023,2023-11-11,Chapecoense / SC,Botafogo / SP,2,0
+2023,2023-11-11,Tombense / MG,Ponte Preta / SP,0,1
+2023,2023-11-14,ABC / RN,Juventude / RS,0,0
+2023,2023-11-19,Guarani / SP,ABC / RN,2,3
+2023,2023-11-18,Vila Nova / GO,Ceará / CE,3,1
+2023,2023-11-18,Criciúma / SC,Botafogo / SP,3,0
+2023,2023-11-17,Ituano / SP,Chapecoense / SC,0,0
+2023,2023-11-18,Mirassol / SP,Atlético Goianiense / GO,4,1
+2023,2023-11-18,Vitória / BA,Sport / PE,1,0
+2023,2023-11-20,Sampaio Corrêa / MA,Avaí / SC,4,0
+2023,2023-11-18,Juventude / RS,Ponte Preta / SP,0,0
+2023,2023-11-17,Londrina / PR,Novorizontino / SP,0,1
+2023,2023-11-19,CRB / AL,Tombense / MG,2,0
+2023,2023-11-25,Ponte Preta / SP,CRB / AL,3,0
+2023,2023-11-25,Atlético Goianiense / GO,Guarani / SP,3,0
+2023,2023-11-25,Avaí / SC,Ituano / SP,0,0
+2023,2023-11-25,Botafogo / SP,Londrina / PR,0,1
+2023,2023-11-25,Novorizontino / SP,Criciúma / SC,2,0
+2023,2023-11-25,Sport / PE,Sampaio Corrêa / MA,4,1
+2023,2023-11-25,Ceará / CE,Juventude / RS,1,3
+2023,2023-11-25,Chapecoense / SC,Vitória / BA,3,1
+2023,2023-11-25,Tombense / MG,Mirassol / SP,0,1
+2023,2023-11-25,ABC / RN,Vila Nova / GO,3,2

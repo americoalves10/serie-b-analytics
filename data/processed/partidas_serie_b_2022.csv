@@ -1,0 +1,381 @@
+﻿temporada,data,mandante,visitante,gols_mandante,gols_visitante
+2022,2022-04-09,Ponte Preta / SP,Grêmio / RS,0,0
+2022,2022-05-04,CSA / AL,Criciúma / SC,1,1
+2022,2022-04-09,Sport / PE,Sampaio Corrêa / MA,1,0
+2022,2022-04-08,Brusque / SC,Guarani / SP,1,0
+2022,2022-05-04,Novorizontino / SP,CRB / AL,3,1
+2022,2022-04-10,Londrina / PR,Náutico / PE,2,0
+2022,2022-04-08,Vasco da Gama / RJ,Vila Nova / GO,1,1
+2022,2022-04-08,Bahia / BA,Cruzeiro / MG,2,0
+2022,2022-04-09,Tombense / MG,Operário / PR,1,1
+2022,2022-04-09,Chapecoense / SC,Ituano / SP,1,1
+2022,2022-04-16,Guarani / SP,Sport / PE,0,0
+2022,2022-04-16,CRB / AL,Vasco da Gama / RJ,1,1
+2022,2022-04-15,Náutico / PE,Bahia / BA,0,1
+2022,2022-04-14,Criciúma / SC,Londrina / PR,1,0
+2022,2022-04-16,Ituano / SP,CSA / AL,0,0
+2022,2022-04-16,Operário / PR,Ponte Preta / SP,2,0
+2022,2022-04-15,Grêmio / RS,Chapecoense / SC,0,1
+2022,2022-04-16,Sampaio Corrêa / MA,Tombense / MG,1,1
+2022,2022-04-12,Cruzeiro / MG,Brusque / SC,1,0
+2022,2022-04-12,Vila Nova / GO,Novorizontino / SP,0,0
+2022,2022-04-23,Ponte Preta / SP,CRB / AL,1,0
+2022,2022-04-22,CSA / AL,Bahia / BA,1,1
+2022,2022-04-24,Náutico / PE,Operário / PR,2,0
+2022,2022-04-23,Criciúma / SC,Sport / PE,1,1
+2022,2022-04-23,Ituano / SP,Vila Nova / GO,3,1
+2022,2022-04-21,Londrina / PR,Novorizontino / SP,1,1
+2022,2022-04-21,Grêmio / RS,Guarani / SP,3,1
+2022,2022-04-23,Sampaio Corrêa / MA,Brusque / SC,3,1
+2022,2022-04-23,Tombense / MG,Cruzeiro / MG,1,1
+2022,2022-04-22,Chapecoense / SC,Vasco da Gama / RJ,0,0
+2022,2022-04-27,Guarani / SP,Criciúma / SC,1,0
+2022,2022-04-27,CRB / AL,Náutico / PE,1,2
+2022,2022-04-26,Sport / PE,Ituano / SP,1,0
+2022,2022-04-26,Brusque / SC,CSA / AL,2,0
+2022,2022-04-26,Novorizontino / SP,Chapecoense / SC,0,3
+2022,2022-04-27,Operário / PR,Grêmio / RS,0,1
+2022,2022-04-27,Vasco da Gama / RJ,Ponte Preta / SP,1,0
+2022,2022-04-26,Bahia / BA,Sampaio Corrêa / MA,1,0
+2022,2022-04-26,Cruzeiro / MG,Londrina / PR,1,0
+2022,2022-04-26,Vila Nova / GO,Tombense / MG,1,1
+2022,2022-04-30,Ponte Preta / SP,Brusque / SC,2,0
+2022,2022-04-30,CSA / AL,Sport / PE,1,0
+2022,2022-05-03,Náutico / PE,Guarani / SP,1,1
+2022,2022-05-01,Criciúma / SC,Novorizontino / SP,1,1
+2022,2022-04-29,Ituano / SP,Bahia / BA,1,0
+2022,2022-04-29,Londrina / PR,Vila Nova / GO,2,2
+2022,2022-04-30,Grêmio / RS,CRB / AL,2,0
+2022,2022-04-30,Sampaio Corrêa / MA,Operário / PR,1,1
+2022,2022-05-01,Tombense / MG,Vasco da Gama / RJ,1,1
+2022,2022-04-30,Chapecoense / SC,Cruzeiro / MG,0,2
+2022,2022-05-08,Guarani / SP,Ponte Preta / SP,0,0
+2022,2022-05-09,CRB / AL,Sampaio Corrêa / MA,2,1
+2022,2022-05-06,Sport / PE,Tombense / MG,2,0
+2022,2022-05-05,Brusque / SC,Chapecoense / SC,0,0
+2022,2022-05-07,Novorizontino / SP,Ituano / SP,2,1
+2022,2022-05-07,Operário / PR,Criciúma / SC,2,0
+2022,2022-05-07,Vasco da Gama / RJ,CSA / AL,1,0
+2022,2022-05-03,Bahia / BA,Londrina / PR,4,0
+2022,2022-05-08,Cruzeiro / MG,Grêmio / RS,1,0
+2022,2022-05-06,Vila Nova / GO,Náutico / PE,2,0
+2022,2022-05-13,Ponte Preta / SP,Novorizontino / SP,0,1
+2022,2022-05-14,CSA / AL,Operário / PR,0,0
+2022,2022-05-15,Náutico / PE,Cruzeiro / MG,0,1
+2022,2022-05-14,Criciúma / SC,CRB / AL,3,0
+2022,2022-05-16,Ituano / SP,Grêmio / RS,1,1
+2022,2022-05-14,Londrina / PR,Brusque / SC,2,1
+2022,2022-05-15,Vasco da Gama / RJ,Bahia / BA,1,0
+2022,2022-05-14,Sampaio Corrêa / MA,Vila Nova / GO,2,0
+2022,2022-05-14,Tombense / MG,Guarani / SP,1,1
+2022,2022-05-13,Chapecoense / SC,Sport / PE,0,1
+2022,2022-05-19,Guarani / SP,Vasco da Gama / RJ,0,0
+2022,2022-05-18,CRB / AL,Londrina / PR,1,0
+2022,2022-05-19,Náutico / PE,CSA / AL,1,1
+2022,2022-05-20,Brusque / SC,Tombense / MG,1,0
+2022,2022-05-17,Novorizontino / SP,Sport / PE,0,0
+2022,2022-05-21,Operário / PR,Ituano / SP,3,2
+2022,2022-05-19,Grêmio / RS,Criciúma / SC,0,0
+2022,2022-05-20,Bahia / BA,Ponte Preta / SP,2,1
+2022,2022-05-22,Cruzeiro / MG,Sampaio Corrêa / MA,2,0
+2022,2022-05-19,Vila Nova / GO,Chapecoense / SC,0,0
+2022,2022-05-24,Ponte Preta / SP,Chapecoense / SC,0,0
+2022,2022-05-28,CSA / AL,Novorizontino / SP,2,1
+2022,2022-05-24,Sport / PE,CRB / AL,0,1
+2022,2022-05-27,Criciúma / SC,Cruzeiro / MG,0,1
+2022,2022-05-26,Ituano / SP,Náutico / PE,0,0
+2022,2022-05-25,Londrina / PR,Operário / PR,2,1
+2022,2022-05-26,Vasco da Gama / RJ,Brusque / SC,2,0
+2022,2022-05-28,Sampaio Corrêa / MA,Guarani / SP,2,1
+2022,2022-05-27,Tombense / MG,Bahia / BA,1,0
+2022,2022-05-29,Vila Nova / GO,Grêmio / RS,0,0
+2022,2022-06-02,Guarani / SP,Vila Nova / GO,1,1
+2022,2022-06-01,CRB / AL,CSA / AL,0,0
+2022,2022-06-02,Sport / PE,Ponte Preta / SP,2,1
+2022,2022-06-04,Brusque / SC,Náutico / PE,1,2
+2022,2022-06-04,Novorizontino / SP,Sampaio Corrêa / MA,0,0
+2022,2022-06-03,Operário / PR,Cruzeiro / MG,1,2
+2022,2022-06-02,Vasco da Gama / RJ,Grêmio / RS,0,0
+2022,2022-06-04,Bahia / BA,Criciúma / SC,2,1
+2022,2022-06-04,Tombense / MG,Ituano / SP,2,1
+2022,2022-07-05,Chapecoense / SC,Londrina / PR,0,3
+2022,2022-06-06,Guarani / SP,Operário / PR,0,3
+2022,2022-06-07,CSA / AL,Chapecoense / SC,1,1
+2022,2022-06-07,Náutico / PE,Vasco da Gama / RJ,2,3
+2022,2022-06-07,Criciúma / SC,Sampaio Corrêa / MA,3,1
+2022,2022-06-07,Ituano / SP,Ponte Preta / SP,1,2
+2022,2022-06-07,Londrina / PR,Tombense / MG,1,1
+2022,2022-06-07,Grêmio / RS,Novorizontino / SP,2,0
+2022,2022-06-08,Bahia / BA,Sport / PE,1,0
+2022,2022-06-08,Cruzeiro / MG,CRB / AL,2,0
+2022,2022-06-07,Vila Nova / GO,Brusque / SC,0,2
+2022,2022-06-11,Ponte Preta / SP,Londrina / PR,1,2
+2022,2022-06-11,CRB / AL,Vila Nova / GO,1,0
+2022,2022-06-13,Sport / PE,Grêmio / RS,0,0
+2022,2022-06-11,Brusque / SC,Ituano / SP,0,1
+2022,2022-06-12,Novorizontino / SP,Guarani / SP,1,2
+2022,2022-06-11,Operário / PR,Bahia / BA,0,1
+2022,2022-06-12,Vasco da Gama / RJ,Cruzeiro / MG,1,0
+2022,2022-06-10,Sampaio Corrêa / MA,Náutico / PE,2,0
+2022,2022-06-12,Tombense / MG,CSA / AL,2,1
+2022,2022-06-10,Chapecoense / SC,Criciúma / SC,2,3
+2022,2022-06-19,Guarani / SP,CSA / AL,0,0
+2022,2022-06-17,CRB / AL,Ituano / SP,1,1
+2022,2022-06-18,Náutico / PE,Sport / PE,1,1
+2022,2022-06-17,Criciúma / SC,Brusque / SC,0,1
+2022,2022-06-18,Novorizontino / SP,Tombense / MG,1,3
+2022,2022-06-18,Londrina / PR,Vasco da Gama / RJ,0,1
+2022,2022-06-18,Grêmio / RS,Sampaio Corrêa / MA,2,0
+2022,2022-06-14,Bahia / BA,Chapecoense / SC,0,1
+2022,2022-06-16,Cruzeiro / MG,Ponte Preta / SP,2,0
+2022,2022-06-16,Vila Nova / GO,Operário / PR,0,0
+2022,2022-06-23,Ponte Preta / SP,Sampaio Corrêa / MA,0,0
+2022,2022-06-23,CSA / AL,Grêmio / RS,1,1
+2022,2022-06-25,Sport / PE,Brusque / SC,0,0
+2022,2022-06-25,Criciúma / SC,Vila Nova / GO,1,0
+2022,2022-07-05,Ituano / SP,Cruzeiro / MG,1,1
+2022,2022-06-24,Londrina / PR,Guarani / SP,3,1
+2022,2022-06-24,Vasco da Gama / RJ,Operário / PR,3,0
+2022,2022-06-25,Bahia / BA,Novorizontino / SP,0,1
+2022,2022-06-26,Tombense / MG,Náutico / PE,1,1
+2022,2022-06-21,Chapecoense / SC,CRB / AL,1,2
+2022,2022-06-28,Guarani / SP,Ituano / SP,0,2
+2022,2022-06-29,CRB / AL,Tombense / MG,0,0
+2022,2022-06-29,Náutico / PE,Criciúma / SC,1,1
+2022,2022-06-28,Brusque / SC,Bahia / BA,0,2
+2022,2022-06-29,Novorizontino / SP,Vasco da Gama / RJ,2,0
+2022,2022-06-27,Operário / PR,Chapecoense / SC,2,1
+2022,2022-06-28,Grêmio / RS,Londrina / PR,1,0
+2022,2022-06-27,Sampaio Corrêa / MA,CSA / AL,2,0
+2022,2022-06-28,Cruzeiro / MG,Sport / PE,2,1
+2022,2022-06-28,Vila Nova / GO,Ponte Preta / SP,1,1
+2022,2022-07-03,Ponte Preta / SP,Tombense / MG,0,0
+2022,2022-07-02,CRB / AL,Guarani / SP,1,1
+2022,2022-07-02,Náutico / PE,Novorizontino / SP,3,1
+2022,2022-07-01,Brusque / SC,Operário / PR,2,0
+2022,2022-07-02,Ituano / SP,Criciúma / SC,1,2
+2022,2022-07-02,Londrina / PR,CSA / AL,0,0
+2022,2022-07-03,Vasco da Gama / RJ,Sport / PE,0,0
+2022,2022-07-03,Bahia / BA,Grêmio / RS,0,0
+2022,2022-07-01,Cruzeiro / MG,Vila Nova / GO,2,0
+2022,2022-07-01,Chapecoense / SC,Sampaio Corrêa / MA,3,1
+2022,2022-07-09,Guarani / SP,Cruzeiro / MG,1,0
+2022,2022-07-07,CSA / AL,Ponte Preta / SP,0,1
+2022,2022-07-09,Sport / PE,Londrina / PR,2,0
+2022,2022-07-09,Criciúma / SC,Vasco da Gama / RJ,0,1
+2022,2022-07-06,Novorizontino / SP,Brusque / SC,1,0
+2022,2022-07-05,Operário / PR,CRB / AL,2,3
+2022,2022-07-08,Grêmio / RS,Náutico / PE,2,0
+2022,2022-07-09,Sampaio Corrêa / MA,Ituano / SP,2,0
+2022,2022-07-09,Tombense / MG,Chapecoense / SC,2,1
+2022,2022-07-08,Vila Nova / GO,Bahia / BA,1,1
+2022,2022-07-16,Guarani / SP,Bahia / BA,0,2
+2022,2022-07-16,CRB / AL,Brusque / SC,1,1
+2022,2022-07-17,Náutico / PE,Chapecoense / SC,1,2
+2022,2022-07-15,Criciúma / SC,Ponte Preta / SP,1,1
+2022,2022-07-16,Ituano / SP,Londrina / PR,0,0
+2022,2022-07-14,Operário / PR,Sport / PE,0,0
+2022,2022-07-16,Grêmio / RS,Tombense / MG,3,0
+2022,2022-07-16,Sampaio Corrêa / MA,Vasco da Gama / RJ,3,1
+2022,2022-07-17,Cruzeiro / MG,Novorizontino / SP,2,1
+2022,2022-07-15,Vila Nova / GO,CSA / AL,1,2
+2022,2022-07-20,Ponte Preta / SP,Náutico / PE,1,0
+2022,2022-07-20,CSA / AL,Cruzeiro / MG,1,1
+2022,2022-07-18,Sport / PE,Vila Nova / GO,0,0
+2022,2022-07-19,Brusque / SC,Grêmio / RS,1,1
+2022,2022-07-20,Novorizontino / SP,Operário / PR,2,1
+2022,2022-07-19,Londrina / PR,Sampaio Corrêa / MA,1,0
+2022,2022-07-19,Vasco da Gama / RJ,Ituano / SP,1,1
+2022,2022-07-19,Bahia / BA,CRB / AL,1,1
+2022,2022-07-19,Tombense / MG,Criciúma / SC,1,0
+2022,2022-07-20,Chapecoense / SC,Guarani / SP,0,0
+2022,2022-07-24,Guarani / SP,Brusque / SC,1,1
+2022,2022-07-23,CRB / AL,Novorizontino / SP,2,1
+2022,2022-07-23,Náutico / PE,Londrina / PR,1,2
+2022,2022-07-25,Criciúma / SC,CSA / AL,2,1
+2022,2022-07-23,Ituano / SP,Chapecoense / SC,1,0
+2022,2022-07-25,Operário / PR,Tombense / MG,0,0
+2022,2022-07-23,Grêmio / RS,Ponte Preta / SP,2,1
+2022,2022-07-22,Sampaio Corrêa / MA,Sport / PE,4,1
+2022,2022-07-23,Cruzeiro / MG,Bahia / BA,1,0
+2022,2022-07-23,Vila Nova / GO,Vasco da Gama / RJ,1,0
+2022,2022-07-30,Ponte Preta / SP,Operário / PR,3,0
+2022,2022-07-30,CSA / AL,Ituano / SP,1,3
+2022,2022-07-28,Sport / PE,Guarani / SP,2,1
+2022,2022-07-30,Brusque / SC,Cruzeiro / MG,0,0
+2022,2022-07-30,Novorizontino / SP,Vila Nova / GO,1,1
+2022,2022-07-30,Londrina / PR,Criciúma / SC,1,1
+2022,2022-07-28,Vasco da Gama / RJ,CRB / AL,4,0
+2022,2022-07-29,Bahia / BA,Náutico / PE,3,0
+2022,2022-07-29,Tombense / MG,Sampaio Corrêa / MA,3,0
+2022,2022-07-26,Chapecoense / SC,Grêmio / RS,0,0
+2022,2022-08-05,Guarani / SP,Grêmio / RS,1,2
+2022,2022-08-04,CRB / AL,Ponte Preta / SP,1,1
+2022,2022-08-02,Sport / PE,Criciúma / SC,1,1
+2022,2022-08-04,Brusque / SC,Sampaio Corrêa / MA,1,1
+2022,2022-08-06,Novorizontino / SP,Londrina / PR,0,1
+2022,2022-08-05,Operário / PR,Náutico / PE,1,0
+2022,2022-07-31,Vasco da Gama / RJ,Chapecoense / SC,0,0
+2022,2022-08-06,Bahia / BA,CSA / AL,1,0
+2022,2022-08-06,Cruzeiro / MG,Tombense / MG,2,0
+2022,2022-08-05,Vila Nova / GO,Ituano / SP,1,1
+2022,2022-08-09,Ponte Preta / SP,Vasco da Gama / RJ,3,1
+2022,2022-08-09,CSA / AL,Brusque / SC,1,0
+2022,2022-08-10,Náutico / PE,CRB / AL,2,1
+2022,2022-08-10,Criciúma / SC,Guarani / SP,0,0
+2022,2022-08-09,Ituano / SP,Sport / PE,4,1
+2022,2022-08-09,Londrina / PR,Cruzeiro / MG,1,2
+2022,2022-08-09,Grêmio / RS,Operário / PR,5,1
+2022,2022-08-09,Sampaio Corrêa / MA,Bahia / BA,2,0
+2022,2022-08-09,Tombense / MG,Vila Nova / GO,0,0
+2022,2022-08-10,Chapecoense / SC,Novorizontino / SP,2,2
+2022,2022-08-13,Guarani / SP,Náutico / PE,1,0
+2022,2022-08-13,CRB / AL,Grêmio / RS,2,0
+2022,2022-08-13,Sport / PE,CSA / AL,4,0
+2022,2022-08-12,Brusque / SC,Ponte Preta / SP,2,1
+2022,2022-08-14,Novorizontino / SP,Criciúma / SC,3,1
+2022,2022-08-13,Operário / PR,Sampaio Corrêa / MA,1,1
+2022,2022-08-13,Vasco da Gama / RJ,Tombense / MG,3,1
+2022,2022-08-12,Bahia / BA,Ituano / SP,2,0
+2022,2022-08-13,Cruzeiro / MG,Chapecoense / SC,1,1
+2022,2022-08-12,Vila Nova / GO,Londrina / PR,0,0
+2022,2022-08-20,Ponte Preta / SP,Guarani / SP,1,0
+2022,2022-08-18,CSA / AL,Vasco da Gama / RJ,2,0
+2022,2022-08-19,Náutico / PE,Vila Nova / GO,1,2
+2022,2022-08-17,Criciúma / SC,Operário / PR,2,0
+2022,2022-08-19,Ituano / SP,Novorizontino / SP,1,0
+2022,2022-08-16,Londrina / PR,Bahia / BA,1,1
+2022,2022-08-21,Grêmio / RS,Cruzeiro / MG,2,2
+2022,2022-08-20,Sampaio Corrêa / MA,CRB / AL,1,2
+2022,2022-08-18,Tombense / MG,Sport / PE,1,0
+2022,2022-08-20,Chapecoense / SC,Brusque / SC,1,0
+2022,2022-08-27,Guarani / SP,Tombense / MG,2,1
+2022,2022-08-27,CRB / AL,Criciúma / SC,0,0
+2022,2022-08-23,Sport / PE,Chapecoense / SC,1,0
+2022,2022-08-26,Brusque / SC,Londrina / PR,0,1
+2022,2022-08-25,Novorizontino / SP,Ponte Preta / SP,1,1
+2022,2022-08-27,Operário / PR,CSA / AL,0,0
+2022,2022-08-26,Grêmio / RS,Ituano / SP,0,1
+2022,2022-08-28,Bahia / BA,Vasco da Gama / RJ,2,1
+2022,2022-08-26,Cruzeiro / MG,Náutico / PE,4,0
+2022,2022-08-25,Vila Nova / GO,Sampaio Corrêa / MA,0,0
+2022,2022-08-31,Ponte Preta / SP,Bahia / BA,2,0
+2022,2022-08-30,CSA / AL,Náutico / PE,2,0
+2022,2022-08-30,Sport / PE,Novorizontino / SP,1,0
+2022,2022-08-30,Criciúma / SC,Grêmio / RS,2,0
+2022,2022-08-30,Ituano / SP,Operário / PR,0,0
+2022,2022-08-30,Londrina / PR,CRB / AL,1,0
+2022,2022-08-31,Vasco da Gama / RJ,Guarani / SP,2,1
+2022,2022-08-30,Sampaio Corrêa / MA,Cruzeiro / MG,1,1
+2022,2022-08-30,Tombense / MG,Brusque / SC,1,0
+2022,2022-08-29,Chapecoense / SC,Vila Nova / GO,1,2
+2022,2022-09-03,Guarani / SP,Sampaio Corrêa / MA,3,0
+2022,2022-09-03,CRB / AL,Sport / PE,2,0
+2022,2022-09-02,Náutico / PE,Ituano / SP,2,0
+2022,2022-09-03,Brusque / SC,Vasco da Gama / RJ,1,0
+2022,2022-09-03,Novorizontino / SP,CSA / AL,1,1
+2022,2022-09-03,Operário / PR,Londrina / PR,1,0
+2022,2022-09-02,Grêmio / RS,Vila Nova / GO,2,1
+2022,2022-09-03,Bahia / BA,Tombense / MG,3,1
+2022,2022-09-04,Cruzeiro / MG,Criciúma / SC,1,1
+2022,2022-09-03,Chapecoense / SC,Ponte Preta / SP,3,0
+2022,2022-09-07,Ponte Preta / SP,Sport / PE,1,0
+2022,2022-09-10,CSA / AL,CRB / AL,1,1
+2022,2022-09-09,Náutico / PE,Brusque / SC,1,0
+2022,2022-09-08,Criciúma / SC,Bahia / BA,0,0
+2022,2022-09-10,Ituano / SP,Tombense / MG,3,0
+2022,2022-09-10,Londrina / PR,Chapecoense / SC,2,1
+2022,2022-09-11,Grêmio / RS,Vasco da Gama / RJ,2,1
+2022,2022-09-07,Sampaio Corrêa / MA,Novorizontino / SP,2,1
+2022,2022-09-08,Cruzeiro / MG,Operário / PR,1,0
+2022,2022-09-06,Vila Nova / GO,Guarani / SP,2,1
+2022,2022-09-13,Ponte Preta / SP,Ituano / SP,1,1
+2022,2022-09-17,CRB / AL,Cruzeiro / MG,0,2
+2022,2022-09-12,Sport / PE,Bahia / BA,1,0
+2022,2022-09-17,Brusque / SC,Vila Nova / GO,0,1
+2022,2022-09-16,Novorizontino / SP,Grêmio / RS,2,0
+2022,2022-09-13,Operário / PR,Guarani / SP,0,1
+2022,2022-09-16,Vasco da Gama / RJ,Náutico / PE,4,1
+2022,2022-09-17,Sampaio Corrêa / MA,Criciúma / SC,1,1
+2022,2022-09-16,Tombense / MG,Londrina / PR,1,1
+2022,2022-09-17,Chapecoense / SC,CSA / AL,1,0
+2022,2022-09-20,Guarani / SP,Novorizontino / SP,2,0
+2022,2022-09-26,CSA / AL,Tombense / MG,2,0
+2022,2022-09-23,Náutico / PE,Sampaio Corrêa / MA,1,3
+2022,2022-09-25,Criciúma / SC,Chapecoense / SC,2,0
+2022,2022-09-24,Ituano / SP,Brusque / SC,2,0
+2022,2022-09-23,Londrina / PR,Ponte Preta / SP,0,2
+2022,2022-09-20,Grêmio / RS,Sport / PE,3,0
+2022,2022-09-24,Bahia / BA,Operário / PR,2,2
+2022,2022-09-21,Cruzeiro / MG,Vasco da Gama / RJ,3,0
+2022,2022-09-22,Vila Nova / GO,CRB / AL,1,0
+2022,2022-09-28,Ponte Preta / SP,Cruzeiro / MG,1,4
+2022,2022-09-30,CSA / AL,Guarani / SP,1,2
+2022,2022-09-28,Sport / PE,Náutico / PE,2,1
+2022,2022-10-01,Brusque / SC,Criciúma / SC,0,2
+2022,2022-10-01,Ituano / SP,CRB / AL,1,0
+2022,2022-09-30,Operário / PR,Vila Nova / GO,1,1
+2022,2022-09-29,Vasco da Gama / RJ,Londrina / PR,1,1
+2022,2022-09-30,Sampaio Corrêa / MA,Grêmio / RS,2,1
+2022,2022-09-29,Tombense / MG,Novorizontino / SP,2,0
+2022,2022-09-30,Chapecoense / SC,Bahia / BA,3,1
+2022,2022-10-03,Guarani / SP,Londrina / PR,1,0
+2022,2022-10-04,CRB / AL,Chapecoense / SC,2,1
+2022,2022-10-04,Náutico / PE,Tombense / MG,4,3
+2022,2022-10-04,Brusque / SC,Sport / PE,0,1
+2022,2022-10-04,Novorizontino / SP,Bahia / BA,1,1
+2022,2022-10-04,Operário / PR,Vasco da Gama / RJ,2,3
+2022,2022-10-04,Grêmio / RS,CSA / AL,2,0
+2022,2022-10-03,Sampaio Corrêa / MA,Ponte Preta / SP,2,1
+2022,2022-10-05,Cruzeiro / MG,Ituano / SP,1,1
+2022,2022-10-04,Vila Nova / GO,Criciúma / SC,1,0
+2022,2022-10-08,Ponte Preta / SP,Vila Nova / GO,1,1
+2022,2022-10-07,CSA / AL,Sampaio Corrêa / MA,0,0
+2022,2022-10-09,Sport / PE,Cruzeiro / MG,3,1
+2022,2022-10-07,Criciúma / SC,Náutico / PE,2,1
+2022,2022-10-08,Ituano / SP,Guarani / SP,2,1
+2022,2022-10-08,Londrina / PR,Grêmio / RS,1,1
+2022,2022-10-08,Vasco da Gama / RJ,Novorizontino / SP,3,0
+2022,2022-10-08,Bahia / BA,Brusque / SC,1,0
+2022,2022-10-08,Tombense / MG,CRB / AL,1,2
+2022,2022-10-08,Chapecoense / SC,Operário / PR,1,1
+2022,2022-10-11,Guarani / SP,CRB / AL,1,0
+2022,2022-10-14,CSA / AL,Londrina / PR,0,1
+2022,2022-10-16,Sport / PE,Vasco da Gama / RJ,1,1
+2022,2022-10-15,Criciúma / SC,Ituano / SP,3,0
+2022,2022-10-14,Novorizontino / SP,Náutico / PE,6,0
+2022,2022-10-13,Operário / PR,Brusque / SC,0,0
+2022,2022-10-16,Grêmio / RS,Bahia / BA,1,1
+2022,2022-10-11,Sampaio Corrêa / MA,Chapecoense / SC,2,1
+2022,2022-10-15,Tombense / MG,Ponte Preta / SP,0,0
+2022,2022-10-14,Vila Nova / GO,Cruzeiro / MG,1,0
+2022,2022-10-20,Ponte Preta / SP,CSA / AL,0,2
+2022,2022-10-21,CRB / AL,Operário / PR,2,1
+2022,2022-10-23,Náutico / PE,Grêmio / RS,0,3
+2022,2022-10-18,Brusque / SC,Novorizontino / SP,2,2
+2022,2022-10-22,Ituano / SP,Sampaio Corrêa / MA,1,0
+2022,2022-10-22,Londrina / PR,Sport / PE,2,1
+2022,2022-10-22,Vasco da Gama / RJ,Criciúma / SC,2,1
+2022,2022-10-22,Bahia / BA,Vila Nova / GO,1,1
+2022,2022-10-18,Cruzeiro / MG,Guarani / SP,0,1
+2022,2022-10-21,Chapecoense / SC,Tombense / MG,3,2
+2022,2022-10-28,Ponte Preta / SP,Criciúma / SC,1,1
+2022,2022-10-25,CSA / AL,Vila Nova / GO,1,0
+2022,2022-10-28,Sport / PE,Operário / PR,5,1
+2022,2022-10-25,Brusque / SC,CRB / AL,0,0
+2022,2022-10-27,Novorizontino / SP,Cruzeiro / MG,1,4
+2022,2022-10-28,Londrina / PR,Ituano / SP,0,2
+2022,2022-10-27,Vasco da Gama / RJ,Sampaio Corrêa / MA,2,3
+2022,2022-10-28,Bahia / BA,Guarani / SP,1,1
+2022,2022-10-28,Tombense / MG,Grêmio / RS,2,2
+2022,2022-10-29,Chapecoense / SC,Náutico / PE,1,0
+2022,2022-11-06,Guarani / SP,Chapecoense / SC,1,0
+2022,2022-11-06,CRB / AL,Bahia / BA,1,2
+2022,2022-11-04,Náutico / PE,Ponte Preta / SP,0,1
+2022,2022-11-05,Criciúma / SC,Tombense / MG,2,0
+2022,2022-11-06,Ituano / SP,Vasco da Gama / RJ,0,1
+2022,2022-11-06,Operário / PR,Novorizontino / SP,0,3
+2022,2022-11-03,Grêmio / RS,Brusque / SC,3,0
+2022,2022-11-05,Sampaio Corrêa / MA,Londrina / PR,2,1
+2022,2022-11-06,Cruzeiro / MG,CSA / AL,3,2
+2022,2022-11-06,Vila Nova / GO,Sport / PE,0,0
