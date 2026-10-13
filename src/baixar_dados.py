@@ -9,9 +9,11 @@ import requests
 RAIZ = Path(__file__).resolve().parent.parent
 PASTA_RAW = RAIZ / "data" / "raw"
 PASTA_PROCESSED = RAIZ / "data" / "processed"
+PASTA_AUDITORIA = PASTA_PROCESSED / "auditoria"
 
 PASTA_RAW.mkdir(parents=True, exist_ok=True)
 PASTA_PROCESSED.mkdir(parents=True, exist_ok=True)
+PASTA_AUDITORIA.mkdir(parents=True, exist_ok=True)
 
 # 2. Começar pela temporada disponível
 TEMPORADAS = [2025]
@@ -95,7 +97,7 @@ df = pd.DataFrame(partidas)
 if not df.empty:
     df["data"] = pd.to_datetime(df["data"], errors="coerce")
 
-    arquivo_csv = PASTA_PROCESSED / "partidas_serie_b.csv"
+    arquivo_csv = PASTA_AUDITORIA / "partidas_serie_b.csv"
 
     df.to_csv(
         arquivo_csv,

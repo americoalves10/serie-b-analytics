@@ -5,7 +5,7 @@ import pandas as pd
 RAIZ = Path(__file__).resolve().parent.parent
 
 ARQUIVO_ORIGINAL = (
-    RAIZ / "data" / "processed"
+    RAIZ / "data" / "processed" / "auditoria"
     / "partidas_serie_b_2025_brazilianfootball.csv"
 )
 

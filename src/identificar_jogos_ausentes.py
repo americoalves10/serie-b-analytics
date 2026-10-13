@@ -15,16 +15,12 @@ import pandas as pd
 RAIZ = Path(__file__).resolve().parent.parent
 
 ARQUIVO_BASE = (
-    RAIZ
-    / "data"
-    / "processed"
+    RAIZ / "data" / "processed" / "auditoria"
     / "partidas_serie_b_2025_brazilianfootball.csv"
 )
 
 ARQUIVO_SAIDA = (
-    RAIZ
-    / "data"
-    / "processed"
+    RAIZ / "data" / "processed" / "auditoria"
     / "jogos_ausentes_para_verificacao.csv"
 )
 

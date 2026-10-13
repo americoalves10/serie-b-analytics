@@ -2,11 +2,17 @@
 from pathlib import Path
 import pandas as pd
 
-# Arquivo original
-arquivo = Path("data/processed/partidas_serie_b_2024.csv")
+RAIZ = Path(__file__).resolve().parent.parent
 
-# Novo arquivo, sem sobrescrever o original
-saida = Path("data/processed/partidas_serie_b_2024_completa.csv")
+arquivo = (
+    RAIZ / "data" / "processed" / "auditoria"
+    / "partidas_serie_b_2024.csv"
+)
+
+saida = (
+    RAIZ / "data" / "processed"
+    / "partidas_serie_b_2024_completa.csv"
+)
 
 df = pd.read_csv(arquivo)
 
